@@ -2,7 +2,7 @@
 This Power BI project analyzes Uber trip data for January and February 2015 to deliver interactive dashboards that uncover urban mobility trends and operational performance. It integrates data segmented by dispatching base number, trip volume, vehicle activity, day of the week, and date. The dashboards highlight key performance indicators such as total trips, active vehicles, trips per vehicle, and peak activity days. Visualizations include trend lines, bar charts, comparative heatmaps, and summary tables for in-depth temporal and base-level analysis. The solution enables users to explore demand patterns, dispatch efficiency, and time-based utilization, supporting data-driven decisions in ride-hailing operations.
 
 ## Dataset used
-Dataset = ""
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Uber_Trip_Analysis/blob/main/Uber-2015%20jan%2Cfeb.csv"
 
 ## Objectives of the project
 
@@ -26,13 +26,13 @@ Dataset = ""
 
     
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Uber_Trip_Analysis/blob/main/uber.pbix"
 
 ![image](https://github.com/user-attachments/assets/d7bee25b-a7a4-408d-b495-0b99eeca993c)
 ![image](https://github.com/user-attachments/assets/c16a2158-e7ca-4910-aac0-39117133c8b2)
 
 ## PDF file dashboard
-PDF File = ""
+PDF File = "https://github.com/SubhankarMukherjee-portfolio/Uber_Trip_Analysis/blob/main/uber.pdf"
 
 ## Final Observations & Storyline
 During January and February 2015, Uber completed a total of 4.13 million trips with approximately 462,832 active vehicles, averaging 8.92 trips per vehicle. The peak trip volume was recorded on February 28, 2015, indicating a surge in demand toward month-end. Weekly trends revealed that Fridays and Saturdays consistently had the highest trip counts, peaking at ~380K trips, while Sundays and Mondays had the lowest activity. February showed increased engagement across all weekdays compared to January, reflecting either platform growth or seasonal variation. B02764 emerged as the most active dispatch base, handling over 1.91 million trips with 217,290 vehicles, followed by B02617 and B02682, both showing strong trip-to-vehicle ratios above 9. Trend lines clearly depicted a steady increase in both trip volume and active vehicle count from January to February. Vehicle deployment mirrored trip trends, peaking midweek, with up to 40K vehicles active on peak days. Efficiency analysis showed that B02682 had the highest trip-to-vehicle ratio (9.27), suggesting better dispatch optimization. Overall, the dashboard unveils strong operational scaling and temporal demand patterns, offering actionable insights for resource planning and service improvements in urban ride-hailing.
